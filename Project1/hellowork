@@ -1,4 +1,1 @@
-console.log('Project 1')
-var name = 'Jimmy';
-
-console.log('Hello ' + name);
+this won't compile
